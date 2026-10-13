@@ -1,0 +1,4 @@
+1. Check the current branch with `git branch`.
+2. Run `git status` before committing.
+3. Review changes before committing.
+4. Check commits before pushing to a remote repository.
